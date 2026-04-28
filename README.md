@@ -1,2 +1,3 @@
-# rdf-viewer-plugins
-Plugins for RDF Viewer
+# RDF Viewer Plugin Modules
+
+Plugin Modules for [RDF Viewer](https://github.com/adamrer/rdf-viewer).

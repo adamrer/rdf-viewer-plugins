@@ -10,8 +10,9 @@ const links = files
 
 const html = `<!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="style.css">
 <body>
-  <h1>Plugins</h1>
+  <h1>Plugin Modules</h1>
   <ul>
     ${links}
   </ul>
